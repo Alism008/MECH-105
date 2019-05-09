@@ -1,2 +1,2 @@
 # MECH-105
-MECH 105 logarithmS
+MECH 105 logarithms
